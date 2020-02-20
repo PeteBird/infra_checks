@@ -1,0 +1,4 @@
+10.96.53.68 # TGW Dev us-east-1 node
+10.99.229.22 # TVPC Dev us-east-1 node
+10.104.52.152 # TGW Dev us-west-2 node
+10.107.228.145 # TVPC Dev us-west-2 node

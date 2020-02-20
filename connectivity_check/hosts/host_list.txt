@@ -1,0 +1,3 @@
+jenkins.opssuite.dev.swacorp.com
+jenkins.opssuite.qa.swacorp.com
+jenkins.opssuite.prod.swacorp.com
