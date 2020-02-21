@@ -9,7 +9,7 @@ do
   else
     echo "D'oh! Can't reach $ip"
   fi
-done < hosts/ip_list.txt
+done < hosts/target_ip_list.txt
 
 while read host
 do
@@ -18,4 +18,4 @@ do
   else
     echo "D'oh! Can't resolve $host"
   fi
-done < hosts/host_list.txt
+done < hosts/target_name_list.txt
