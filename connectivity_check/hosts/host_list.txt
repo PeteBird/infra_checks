@@ -1,3 +1,3 @@
-jenkins.opssuite.dev.swacorp.com
-jenkins.opssuite.qa.swacorp.com
-jenkins.opssuite.prod.swacorp.com
+host1.subdomain1.domainx.com
+host2.subdomain2.domainy.com
+host3.subdomain3.domainz.com
